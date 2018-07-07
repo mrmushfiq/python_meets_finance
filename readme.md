@@ -7,6 +7,8 @@ Repository containing portfolio of financial analysis projects completed by me f
 
 	- [Markowitch Portfolio Optimizaiton: The Efficient Frontier](https://github.com/mrmushfiq/python_meets_finance/blob/master/Portfolio_optimization/efficient_frontier_Portfolio_optimization.ipynb): Performing portfolio optimization for popular stocks.
 
+	- [Cryptocurrency Portfolio Optimizaiton](https://github.com/mrmushfiq/python_meets_finance/blob/master/cryptocurrency_portfolio_optimization/cryptocurrency_portfolio_optimization.ipynb): We apply the Markowitz portfolio optimizaiton technique on a crypto currency portfolio of Bitcoin, Etherum, Litecoin and Ripple. 
+
 - ### Time Series Analysis
 
 	- [Stock Forcastign Using ARIMA](https://github.com/mrmushfiq/python_meets_finance/blob/master/arima_stock_forcasting/auto_ARIMA_stock_forecasting.ipynb): Using ARIMA model to predict stock price. We use auto arima to generate multiple models and use the one with the best AIC value.
